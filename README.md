@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omer Aksaray</h1>
-- 🌱 I’m currently learning **Javascript and React**
+- 🌱 I’m currently learning **Javascript and Node.js**
 
 - 📫 How to reach me **oaksaray.net@gmail.com**
 
