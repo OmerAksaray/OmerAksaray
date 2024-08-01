@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omer Aksaray</h1>
 
 
-- 📫 How to reach me **oaksaray.net@gmail.com**
+- 📫 How to reach me **oaksaray34gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
