@@ -1,55 +1,95 @@
-<h1 align="center">Hi, I'm Ömer Aksaray 👋</h1>
-<h3 align="center">A Full Stack Developer passionate about continuous learning and growth.</h3>
+<div align="center">
+  <h1>
+    Hi there, I'm Ömer Aksaray 👋
+  </h1>
+  <h3>
+    A Full Stack Developer passionate about building robust applications and solving complex problems.
+  </h3>
+</div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/omeraksaray/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ömer Aksaray LinkedIn" height="30" width="40" /></a>
-  <a href="mailto:oaksaray34@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Ömer Aksaray Email" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/omeraksaray/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:oaksaray34@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </p>
 
 ---
 
-### 🎯 Career Objective
-I am driven to shape my career by combining my passion for software development with a strong desire for **continuous learning and improvement**. With my ability to **rapidly adapt** to new technologies and a strong motivation for **problem-solving**, I aim to be part of a dynamic team and contribute to solutions that **add value** to the organization.
+### 👨‍💻 About Me
+
+- 💡 I'm passionate about crafting elegant solutions, from designing scalable APIs to building intuitive user interfaces.
+- 🌱 I’m currently focused on deepening my expertise in **Microservice Architecture** and exploring cloud-native technologies.
+- 💬 Ask me about **.NET, Angular, Java, or SQL**. I enjoy sharing knowledge and collaborating on interesting ideas.
+- 📫 How to reach me: **oaksaray34@gmail.com**
 
 ---
 
-### 💻 My Tech Stack
+### 🛠️ My Tech Toolbox
 
-| Backend | Frontend | Database | Tools & Methodologies |
-|---|---|---|---|
-| C# | Angular | SQL | Git |
-| .NET | React | PL/SQL | Docker |
-| Java | JavaScript | PostgreSQL | Agile/Scrum |
-| Spring Boot | HTML | SQL Server | |
-| Microservice Architecture | CSS | | |
-| Entity Framework | | | |
+<p align="left">
+  <strong>Backend:</strong><br>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+</p>
+
+<p align="left">
+  <strong>Frontend:</strong><br>
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+</p>
+
+<p align="left">
+  <strong>Database:</strong><br>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
+</p>
+
+<p align="left">
+  <strong>Tools & Practices:</strong><br>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+</p>
 
 ---
 
-### 🚀 Professional Experience
+### 🚀 My Featured Projects
 
-**Öner Bilişim**
-- **Full Stack Developer (Full-Time)** | *July 2025 - Present*
-  - Responsible for end-to-end feature development, including designing new APIs in .NET and building complex modules in Angular.
-  - Focused on enhancing database performance and data integrity by writing complex PL/SQL procedures and optimizing existing queries.
-
-- **Full Stack Developer (Part-Time)** | *September 2024 - June 2025*
-  - Developed user interfaces from scratch using Angular, implementing form validations and component interactions.
-  - Wrote .NET service, repository, and API endpoint layers for new features and developed the required PL/SQL procedures and views.
-
-- **Software Engineer Intern** | *June 2024 - September 2024*
-  - Supported database processes by creating fundamental PL/SQL objects (views, functions, procedures) based on team requirements.
-  - Assisted in the development process by updating API endpoints in the .NET backend and components in the Angular frontend.
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Service Tracking System</h3>
+      <div align="center">
+        <p>A comprehensive web app for managing transportation services with dedicated panels for managers, drivers, and employees. Features dynamic route optimization with Google Maps.</p>
+        <p>
+          <strong>Tech Stack:</strong> .NET, Angular, SQL Server, Google Maps API
+        </p>
+        <a href="[LINK_TO_YOUR_REPO_HERE]" target="_blank">View on GitHub</a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Web-Based Accounting Automation</h3>
+      <div align="center">
+        <p>An automation tool to digitize core accounting tasks like invoice management and expense tracking. Built with a modern, decoupled architecture.</p>
+        <p>
+          <strong>Tech Stack:</strong> Java Spring Boot, React, PostgreSQL
+        </p>
+        <a href="[LINK_TO_YOUR_REPO_HERE]" target="_blank">View on GitHub</a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📂 Projects
+### 📊 My GitHub Stats
 
-**Service Tracking System (Graduation Project)**
-- A web-based service tracking application featuring panels for three distinct user roles: employee, driver, and manager.
-- Implemented a feature for drivers to view dynamically assigned employee addresses on an optimized route via Google Maps.
-- The manager panel allows for comprehensive management of services, users, passenger assignments, and overall system operations.
-
-**Web-Based Accounting Automation**
-- A web-based accounting automation program developed using **Java Spring Boot** for the backend, **React** for the frontend, and a **PostgreSQL** database.
-- Aims to digitize core accounting tasks, including invoice management, income-expense tracking, and reporting.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omeraksaray&show_icons=true&theme=tokyonight" alt="Ömer's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeraksaray&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
